@@ -10,7 +10,7 @@ app = FastAPI()
 
 # Constants
 HISTORY_FILE = "conversation_history.json"
-MISTRAL_API_KEY = "Bzkye1eO2xkBUaWxf0pSHWSKAcf39A6T"  # Replace with actual API key
+MISTRAL_API_KEY = "your_mistral_api_key"  # Replace with actual API key
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 
 # Load conversation history
